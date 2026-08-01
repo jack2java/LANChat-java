@@ -1,5 +1,5 @@
 # LANChat-java
-Simple Chatting application write in java and use terminal only
+Simple Chatting application write in java and use Terminal-based
 
 Requirements
 
